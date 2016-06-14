@@ -28,7 +28,7 @@ CentOS | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:centos`
 Debian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:debian`
 Fedora | 4.02.2 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:fedora`
 OracleLinux | 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux`
-Ubuntu | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:ubuntu`
+Ubuntu | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu`
 
 There are also individual containers available for each combination
    of an OS distribution and an OCaml revision. These should be useful for
